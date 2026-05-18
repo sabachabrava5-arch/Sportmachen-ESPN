@@ -1,4 +1,4 @@
-# Telegram Sports Betting Bot
+# Telegram Sports Betting Bot v.0.1.2
 
 Automated sports content and odds analysis bot for Telegram.
 
