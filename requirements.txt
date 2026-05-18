@@ -1,0 +1,15 @@
+python-telegram-bot[job-queue]>=20.0
+sqlalchemy>=2.0.0
+alembic
+apscheduler
+loguru
+requests
+python-dotenv
+beautifulsoup4
+pandas
+pytest
+pytz
+pydantic
+psycopg2-binary
+redis
+textblob

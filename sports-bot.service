@@ -1,0 +1,14 @@
+[Unit]
+Description=Telegram Sports Bot Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/app
+EnvironmentFile=/app/.env
+ExecStart=/usr/bin/python3 -m src.bot.main
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

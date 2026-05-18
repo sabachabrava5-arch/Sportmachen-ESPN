@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+sports_bot.db
+alembic.ini
+alembic/
+tests/__pycache__/
+src/**/__pycache__/
